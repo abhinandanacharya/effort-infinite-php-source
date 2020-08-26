@@ -9,8 +9,10 @@ vaiable with num values
 vaiable with num values
 vaiable with num values
 vaiable with num values
-vaiable with num values
-$varname = "214789";**/
+vaiable with num values**/
+$varname = "214789";
+
+
 
 
 
